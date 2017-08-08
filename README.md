@@ -1,2 +1,2 @@
 # faultyserver
-Simulating non-redundant server deployments.
+Simulating non-redundant servers.

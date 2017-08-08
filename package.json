@@ -1,0 +1,19 @@
+{
+  "name": "faultyserver",
+  "version": "1.0.0",
+  "description": "Simulating non-redundant server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serkanaltuntas/faultyserver.git"
+  },
+  "author": "Serkan Altuntaş",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serkanaltuntas/faultyserver/issues"
+  },
+  "homepage": "https://github.com/serkanaltuntas/faultyserver#readme"
+}
