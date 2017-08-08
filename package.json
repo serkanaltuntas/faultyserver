@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/serkanaltuntas/faultyserver/issues"
   },
-  "homepage": "https://github.com/serkanaltuntas/faultyserver#readme"
+  "homepage": "https://github.com/serkanaltuntas/faultyserver#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
