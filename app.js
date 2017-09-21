@@ -7,7 +7,7 @@ console.log(expected_fault_ratio)
 /* serves main page */
 app.get("/", function(req, res) {
   const faultiness = Math.random()
-  if (faultiness < 0.5) {
+  if (faultiness < expected_fault_ratio) {
     console.log('Fault: '+faultiness)
     res.status(500)
   } else {
