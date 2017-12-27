@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/serkanaltuntas/faultyserver#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.16.2"
   }
 }

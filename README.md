@@ -1,6 +1,11 @@
 # faultyserver
 Simulating non-redundant servers.
 
+## How to install:
+```
+npm install express
+```
+
 ## How to run:
 ```
 node app.js 0.5
